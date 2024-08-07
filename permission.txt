@@ -1,0 +1,31 @@
+0ctal    Binary    alph
+0         000      ---   
+1         001      --x
+2         010      -w-
+3         011      -wx     
+4         100      r-- 
+5         101      r-x
+6         110      rw-
+7         111      rwx
+
+
+
+0. means no permission is given to the file
+
+1. execute only
+2. write only
+3. write and execute
+4. read only 
+5. read and execute
+6. read and write
+7. read write and execute
+
+how many class or type of user do we have on linux system
+
+
+Owner group-user other-user
+
+Assigments
+1. research and change ownership of a file -- chown
+
+
