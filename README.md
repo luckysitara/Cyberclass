@@ -295,7 +295,10 @@ Understanding functions and arguments will greatly enhance your ability to write
 This README.md file includes detailed explanations, comprehensive examples for each type of argument, and additional examples to provide a deeper understanding of Python functions and their various features.
 ### Bash Conditionals
 
-In Bash, conditionals allow you to execute different blocks of code depending on whether a condition is true or false. Here’s a breakdown of how conditionals work in Bash.
+
+
+
+##In Bash, conditionals allow you to execute different blocks of code depending on whether a condition is true or false. Here’s a breakdown of how conditionals work in Bash.
 
 #### 1. **Basic `if-else` Syntax**
 
