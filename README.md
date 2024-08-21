@@ -574,7 +574,7 @@ These concepts are fundamental for writing efficient and maintainable Bash scrip
 
 ### file that explains file conditions in Bash:
 
-```markdown
+
 # File Conditions in Bash
 
 This document provides an overview of various file conditions used in Bash scripting to test attributes of files and directories. These conditions are crucial for creating scripts that interact with the file system, allowing you to check if files exist, their permissions, types, and more.
