@@ -571,9 +571,9 @@ This script defines a recursive function to calculate the factorial of a number.
 These concepts are fundamental for writing efficient and maintainable Bash scripts.
 
 
-
+```
 ##file that explains file conditions in Bash:
-
+```
 ```markdown
 # File Conditions in Bash
 
