@@ -1,7 +1,7 @@
 # Cyberclass
 
 
-```markdown
+
 # Python Functions and Arguments
 
 This document provides a comprehensive guide to functions and their arguments in Python, including various types of arguments with detailed examples.
